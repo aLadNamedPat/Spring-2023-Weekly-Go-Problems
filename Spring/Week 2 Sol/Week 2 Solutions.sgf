@@ -1,0 +1,49 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[White]PB[Black]
+;B[]
+;W[]
+(;AW[qc][rc][sc][md][nd][od][pd][me][qe][re][se][mf][nf][of]AB[qb][rb][sb][mc][nc][oc][pc][ld][rd][le][oe][lf][qf][rf][sf][mg][ng][og][pg][qh]
+(;B[pe]C[Level 1 Solution 
+Variation A]
+;W[pf]
+;B[qd]
+;W[ne]
+;B[pe]LB[qd:3][ne:4][pe:1][pf:2]C[Move 1 is Move 5])
+(;B[qd]C[Level 1 Solution 
+Variation B]
+;W[sd]
+;B[pe]
+;W[pf]
+;B[qd]
+;W[ne]
+;B[pe]LB[qd:1][sd:2][pe:3][pf:4]C[Move 5 is Move 3]))
+(;AW[pb][qb][qc][rd][sd]AB[ob][rb][nc][pc][pd][qd][re][qf]
+;B[]C[Level 2 Sol]
+;W[sb]
+;B[ra]
+;W[rc]LB[ra:2][sb:1][rc:3])
+(;AW[ob][pb][qb][nc][rc][nd][rd][ne][re][of][pf][qf]AB[na][oa][pa][sa][mb][nb][rb][mc][qc][md][me][se][nf][rf][ng][og][pg][qg][rg]
+;B[pd]C[Level 3 Sol A]
+;W[qd]
+(;B[oe]LB[pd:1][qd:2][oe:3])
+(;B[qa]C[Level 3 Sol B]
+;W[pc]
+;B[oe]LB[qa:3][pc:4][pd:1][qd:2][oe:5]))
+(;AW[ka][la][qa][ra][kb][rb][kc][rc][kd][ld][md][qd][ne][qe][of][pf]AB[ma][lb][nb][qb][lc][qc][nd][od][pd]C[Level 4 Sol]
+;B[ob]
+;W[nc]
+;B[oc]
+;W[na]
+;B[mc]
+;W[mb]LB[na:4][mb:6][ob:1][mc:5][nc:2][oc:3]C[Solution is Ko])
+(;AW[ma][mb][nb][qb][nc][qc][od][qd][pf]AB[la][lb][rb][mc][rc][md][nd][rd][re][mf][nf][of][rf][og][qg]C[Level 5 Sol]
+;B[oa]
+;W[pa]
+;B[pd]
+;W[pe]
+;B[oe]
+(;W[ob]C[Variation A]
+;B[pc]LB[oa:1][pa:2][ob:6][pc:7][pd:3][oe:5][pe:4])
+(;W[pc]C[Variation B]
+;B[ob]LB[oa:1][pa:2][ob:7][pc:6][pd:3][oe:5][pe:4])))
