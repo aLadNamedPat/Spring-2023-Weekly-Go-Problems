@@ -1,0 +1,37 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[White]PB[Black]
+;B[]
+;W[]
+(;AW[na][qa][ob][pb][pc][qc][rc][sc]AB[ma][pa][sa][mb][nb][qb][rb][oc][od][pd][qd][rd][sd]C[Level 1 Sol]
+;B[ra]LB[ra:1])
+(;AW[na][pa][mb][pb][mc][md][od][me][ne][oe]AB[la][ma][lb][qb][lc][qc][ld][nd][pd][qd][le][pe][lf][mf][nf][of][pf]C[Level 2 Sol]
+;B[oc]
+;W[nc]
+;B[ob]
+;W[pc]
+;B[qa]LB[qa:5][ob:3][nc:2][oc:1][pc:4])
+(;AW[qa][nb][qb][nc][qc][od][qd][oe][pe]AB[ma][ra][mb][rb][mc][rc][md][pd][rd][ne][qe][of][pf][rf]C[Level 3 Sol]
+;B[oa]
+(;W[na]
+;B[oc]
+;W[pc]
+;B[ob]LB[na:2][oa:1][ob:5][oc:3][pc:4])
+(;W[ob]
+;B[pc]
+;W[na]
+;B[pb]LB[na:4][oa:1][ob:2][pb:5][pc:3]))
+(;AW[ma][mb][ob][qb][qc][nd][od][pd][qd]AB[ra][lb][rb][kc][oc][rc][ld][md][rd][ne][oe][pe][qe]C[Level 4 Sol]
+;B[nc]
+;W[mc]
+;B[qa]
+;W[nb]
+;B[oa]LB[oa:5][qa:3][nb:4][mc:2][nc:1])
+(;AW[qb][sb][sc][od][qd][rd]AB[qa][sa][lb][lc][nc][nd][sd][ne][oe][pe][qe][re][se]C[Level 5 Sol]
+;B[ra]
+;W[rb]
+;B[pc]
+;W[qc]
+;B[pa]
+;W[pb]
+;B[oa]LB[oa:7][pa:5][ra:1][pb:6][rb:2][pc:3][qc:4]))
