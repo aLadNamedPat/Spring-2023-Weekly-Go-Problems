@@ -1,0 +1,40 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[White]PB[Black]C[Week 6 Weekly Go Problems]
+;B[]
+;W[]
+(;AW[ob][oc][pc][qc][od][qd][sd][pe][re][se]AB[pa][pb][qb][rb][rc][rd]
+;B[ra]C[Level 1 Sol]
+;W[sc]
+;B[sb]LB[ra:1][sb:3][sc:2])
+(;AW[pa][ra][nb][pb][oc][sc][od][rd][oe][pe][qf][rf][rh]AB[qa][rb][pc][rc][pd][qd][qe][re][se]C[Level 2 Sol - CORRECTION WHITE SHOULD MOVE FIRST]
+(;B[]
+;W[sb]
+;B[sa]LB[sa:2][sb:1]C[Best result is Ko. Please see readme for this week's grading])
+(;B[qb]LB[qb:1]C[Black to Play Solution]))
+(;AW[ma][mb][qb][mc][nc][oc][qc][nd][pd]AB[la][lb][nb][rb][lc][rc][ld][md][rd][ne][oe][pe][qe]
+;B[pb]C[Level 3 Sol]
+;W[qa]
+;B[ob]
+;W[oa]
+;B[pc]
+;W[pa]
+;B[od]
+;W[na]
+;B[qd]LB[na:8][oa:4][pa:6][qa:2][ob:3][pb:1][pc:5][od:7][qd:9])
+(;AW[la][lb][nb][pb][lc][pc][md][nd]AB[ka][kb][qb][kc][qc][kd][ld][pd][me][ne][oe][qe]
+;B[oc]C[Level 4 Sol]
+;W[ob]
+;B[ma]
+;W[mb]
+;B[nc]LB[ma:3][mb:4][ob:2][nc:5][oc:1])
+(;AW[mc][oc][pc][ld][qd][le][qe][mf][pf][qf][mg][og]AB[jb][lb][nb][ob][qb][kc][qc][kd][rd][ke][re][lf][rf][lg][pg][rg][lh][mh][nh][oh][ph][rh]
+;B[me]C[Level 5 Sol]
+(;W[of]C[Sol A]
+;B[ng]
+;W[nf]
+;B[md]LB[md:5][me:1][nf:4][of:2][ng:3])
+(;W[ne]C[Sol B]
+;B[nf]
+;W[md]
+;B[ng]LB[md:4][me:1][ne:2][nf:3][ng:5])))

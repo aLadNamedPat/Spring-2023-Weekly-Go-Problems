@@ -1,0 +1,33 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[White]PB[Black]C[Week 5 Weekly Go Problems Solutions]
+;B[]
+;W[]
+(;AW[qa][pb][pc][qc][rc][rd][sd]AB[oa][pa][ob][oc][od][pd][qd][re][se][qf]
+;B[rb]C[Level 1 ]
+;W[sb]
+;B[ra]LB[ra:3][rb:1][sb:2])
+(;AW[oa][rb][sb][oc][rc][od][pd][qd]AB[na][nb][nc][sc][nd][rd][sd][ne][oe][pe][qe][rf]
+;B[pb]C[Level 2 Sol]
+;W[ob]
+;B[qc]
+;W[qb]
+;B[pa]LB[pa:5][ob:2][pb:1][qb:4][qc:3])
+(;AW[lb][ob][qb][lc][oc][qc][md][nd][od][pd]AB[ka][kb][nb][rb][kc][pc][rc][kd][qd][le][me][ne][oe][pe][qe]
+;B[ld]C[Level 3 Sol]
+;W[mb]
+;B[ma]LB[ma:3][mb:2][ld:1])
+(;AW[ia][ka][na][ib][nb][ic][mc][nc][id][lf]AB[ha][oa][hb][ob][hc][oc][hd][nd][od][he][ie][je][ke][me][nf][kg][mg]
+;B[lb]C[Level 4 Sol]
+;W[lc]
+;B[jc]
+;W[jb]
+;B[kb]
+;W[kc]
+;B[jd]LB[jb:4][kb:5][lb:1][jc:3][kc:6][lc:2][jd:7])
+(;AW[ma][na][lb][ob][pb][lc][od][le][mf][nf][of][mg][og][mh][nh]AB[ka][la][pa][jb][mb][qb][jc][pc][kd][pd][ke][pe][kf][pf][lg][pg][lh][oh][li][mi][ni][oi]
+;B[nd]C[Level 5 Sol]
+;W[md]
+;B[nc]
+;W[oc]
+;B[nb]LB[nb:5][nc:3][oc:4][md:2][nd:1]))
